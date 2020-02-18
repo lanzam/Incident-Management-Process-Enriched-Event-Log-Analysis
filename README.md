@@ -2,8 +2,17 @@
 Business Intelligence Class - ETL Development Project
 University of South Florida | Fall 2019
 
-> Business Problem
+## Table of Contents
+- [Introduction](#introduction)
+- [Business Problem](#business-problem)
+- [Outcome](#outcome)
+- [Tools Used](#tools-used)
 
-> Outcome
 
->
+## Introduction
+
+## Business Problem
+
+## Outcome
+
+## Tools Used 
